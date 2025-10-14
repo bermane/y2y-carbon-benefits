@@ -64,18 +64,37 @@ The above codes were used to output zonal statistics for the Canada/USA carbon a
 All of the spatial layers and results of this analysis can be generated directly using the code above, since all input data is hosted on GEE. To facilitate ease of access, we also exported all spatial layers built during the analysis as GEE assets, and can therefore be referenced and used without having to re-generate the layers. The layers (all images) publically available as GEE assets are listed below. To import them into your GEE code, use the file structure "projects/y2y-climate-benefits/assets/outputs/[replace_with_layer_name]".
 
 **biomass_c_t_ha**
-irrecoverable_bio_hotspots_1000m
-irrecoverable_bio_t_ha_top20_1000m
-irrecoverable_biomass_t_ha
-irrecoverable_soc_m_hotspots_1000m
-irrecoverable_soc_m_t_ha
-irrecoverable_soc_m_t_ha_top20_1000m
-irrecoverable_soc_sl_hotspots_1000m
-irrecoverable_soc_sl_t_ha
-irrecoverable_soc_sl_t_ha_top20_1000m
-manageable_biomass_t_ha
-manageable_soc_t_ha
-soc_0_1m_t_ha
-vulnerable_biomass_t_ha
-vulnerable_soc_m_t_ha
-vulnerable_soc_sl_t_ha
+
+Y2Y above-ground, below-ground, and total biomass carbon density.
+
+**soc_0_1m_t_ha**
+
+Y2Y soil organic carbon (SOC) density (0-1m depth).
+
+**manageable_biomass_t_ha**
+**manageable_soc_t_ha**
+
+Y2Y manageable biomass and SOC density.
+
+**vulnerable_biomass_t_ha**
+**vulnerable_soc_sl_t_ha**
+**vulnerable_soc_m_t_ha**
+
+Y2Y vulnerable biomass and SOC density. The two SOC scenarios are: seismic lines (soc_sl) and mining (soc_m).
+
+**irrecoverable_biomass_t_ha**
+**irrecoverable_soc_sl_t_ha**
+**irrecoverable_soc_m_t_ha**
+
+Y2Y irrecoverable biomass and SOC density. The two SOC scenarios are: seismic lines (soc_sl) and mining (soc_m).
+
+**irrecoverable_bio_hotspots_1000m**
+**irrecoverable_soc_sl_hotspots_1000m**
+**irrecoverable_soc_m_hotspots_1000m**
+
+Y2Y irrecoverable biomass and SOC hotspots generated in ArcGIS Pro using the Hot Spot Analysis (Getis-Ord Gi*) tool.
+
+
+
+
+
