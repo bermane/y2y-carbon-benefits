@@ -61,7 +61,7 @@ The above codes were used to output zonal statistics for the Canada/USA carbon a
 
 ## Data Access
 
-All of the spatial layers and results of this analysis can be generated directly using the code above, since all input data is hosted on GEE. To facilitate ease of access, we also exported all spatial layers built during the analysis as GEE assets, and can therefore be referenced and used without having to re-generate the layers. The layers (all images) publically available as GEE assets are listed below. To import them into your GEE code, use the file structure "projects/y2y-climate-benefits/assets/outputs/[replace_with_layer_name]".
+All the spatial layers and results of this analysis can be generated directly using the code above, since all input data is hosted on GEE. To facilitate ease of access, we also exported all spatial layers built during the analysis as GEE assets, and can therefore be referenced and used without having to re-generate the layers. The layers (all images) publically available as GEE assets are listed below. To import them into your GEE code, use the file structure "projects/y2y-climate-benefits/assets/outputs/[replace_with_layer_name]".
 
 **biomass_c_t_ha**
 
