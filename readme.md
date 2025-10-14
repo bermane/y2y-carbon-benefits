@@ -47,15 +47,15 @@ This code calculates manageable, vulnerable, and irrecoverable carbon across Y2Y
 ## 3. Quantifying carbon storage and sequestration in mountains globally
 
 ### [calculate global_carbon_stats_k1.ipynb](/calculate_global_carbon_stats_k1.ipynb)
-[calculate global_carbon_stats_k2.ipynb](/calculate_global_carbon_stats_k2.ipynb)
-[calculate global_carbon_stats_k3.ipynb](/calculate_global_carbon_stats_k3.ipynb)
+[calculate global_carbon_stats_k2.ipynb](/calculate_global_carbon_stats_k2.ipynb). 
+[calculate global_carbon_stats_k3.ipynb](/calculate_global_carbon_stats_k3.ipynb). 
 [calculate global_carbon_stats_k1_continents.ipynb](/calculate_global_carbon_stats_k1_continents.ipynb)
 
 The above codes were used to output zonal statistics for the global carbon analysis, including carbon stocks and irrecoverable carbon.
 
 ### [calculate us_can_carbon_stats_k1.ipynb](/calculate_us_can_carbon_stats_k1.ipynb)
-[calculate us_can_carbon_stats_k2.ipynb](/calculate_us_can_carbon_stats_k2.ipynb)
-[calculate us_can_carbon_stats_k3.ipynb](/calculate_us_can_carbon_stats_k3.ipynb)
+[calculate us_can_carbon_stats_k2.ipynb](/calculate_us_can_carbon_stats_k2.ipynb). 
+[calculate us_can_carbon_stats_k3.ipynb](/calculate_us_can_carbon_stats_k3.ipynb). 
 
 The above codes were used to output zonal statistics for the Canada/USA carbon analysis, including carbon stocks and irrecoverable carbon.
 
@@ -64,8 +64,7 @@ The above codes were used to output zonal statistics for the Canada/USA carbon a
 All of the spatial layers and results of this analysis can be generated directly using the code above, since all input data is hosted on GEE. To facilitate ease of access, we also exported all spatial layers built during the analysis as GEE assets, and can therefore be referenced and used without having to re-generate the layers. The layers publically available as GEE assets are listed below.
 
 [biomass_c_t_ha]
-
-[irrecoverable_bio_hotspots_1000m](projects/y2y-climate-benefits/assets/outputs/biomass_c_t_ha)
+[irrecoverable_bio_hotspots_1000m](projects/y2y-climate-benefits/assets/outputs/biomass_c_t_ha). 
 [irrecoverable_bio_t_ha_top20_1000m]()
 [irrecoverable_biomass_t_ha]()
 [irrecoverable_soc_m_hotspots_1000m]()
