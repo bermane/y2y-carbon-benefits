@@ -76,20 +76,20 @@ Y2Y soil organic carbon (SOC) density (0-1m depth).
 
 Y2Y manageable biomass and SOC density.
 
-**vulnerable_biomass_t_ha**
-**vulnerable_soc_sl_t_ha**
+**vulnerable_biomass_t_ha**<br>
+**vulnerable_soc_sl_t_ha**<br>
 **vulnerable_soc_m_t_ha**
 
 Y2Y vulnerable biomass and SOC density. The two SOC scenarios are: seismic lines (soc_sl) and mining (soc_m).
 
-**irrecoverable_biomass_t_ha**
-**irrecoverable_soc_sl_t_ha**
+**irrecoverable_biomass_t_ha**<br>
+**irrecoverable_soc_sl_t_ha**<br>
 **irrecoverable_soc_m_t_ha**
 
 Y2Y irrecoverable biomass and SOC density. The two SOC scenarios are: seismic lines (soc_sl) and mining (soc_m).
 
-**irrecoverable_bio_hotspots_1000m**
-**irrecoverable_soc_sl_hotspots_1000m**
+**irrecoverable_bio_hotspots_1000m**<br>
+**irrecoverable_soc_sl_hotspots_1000m**<br>
 **irrecoverable_soc_m_hotspots_1000m**
 
 Y2Y irrecoverable biomass and SOC hotspots generated in ArcGIS Pro using the Hot Spot Analysis (Getis-Ord Gi*) tool.
