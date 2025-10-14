@@ -47,7 +47,7 @@ This code calculates manageable, vulnerable, and irrecoverable carbon across Y2Y
 ## 3. Quantifying carbon storage and sequestration in mountains globally
 
 ### [calculate global_carbon_stats_k1.ipynb](/calculate_global_carbon_stats_k1.ipynb)
-[calculate global_carbon_stats_k2.ipynb](/calculate_global_carbon_stats_k2.ipynb). 
+[calculate global_carbon_stats_k2.ipynb](/calculate_global_carbon_stats_k2.ipynb)<br> 
 [calculate global_carbon_stats_k3.ipynb](/calculate_global_carbon_stats_k3.ipynb). 
 [calculate global_carbon_stats_k1_continents.ipynb](/calculate_global_carbon_stats_k1_continents.ipynb)
 
